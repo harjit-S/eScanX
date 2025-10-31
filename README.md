@@ -1,14 +1,9 @@
 # eScanX
-# 🧠 eScanX PDF Document Analyzer
 
-**Version:** 1.0.1 
+**Version:** 1.0.1.2  
 **Author:** Harjit Singh  
 **Date:** October 2025  
 
-## Software Download Link:
-All required runtime binary (python) are included in setup, There is no need to install any additional software/lib.
-
-https://drive.google.com/file/d/1lsnabDxeOWbrvFSTNBX0fZD9sFwRHaPG/view?usp=drive_link
 ---
 
 ## 📘 Overview
@@ -32,30 +27,49 @@ The app leverages **Python-powered OCR and text-processing** libraries to perfor
 
 ## 🧩 Technologies Used
 
-### 🖥️ Front-End (UI)
-- **.NET (WinForms)**
-  - Handles UI logic, logging, threading, and progress updates.
-  - Integrates Python runtime execution.
-  - Provides color-coded console output.
+  ### 🖥️ Front-End (UI)
+  - **.NET (WinForms)**
+    - Handles UI logic, logging, threading, and progress updates.
+    - Integrates Python runtime execution.
+    - Provides color-coded console output.
+  
+  ### 🐍 Back-End (Python Runtime)
+  - **Python 3.13+**
+  - Core Libraries:
+    - `pdfplumber` — Extracts text from searchable PDFs.
+    - `pdf2image` — Converts PDF pages into images.
+    - `pytesseract` — Optical character recognition (OCR).
+    - `opencv-python` — Image preprocessing before OCR.
+    - `numpy` — Matrix operations and pixel processing.
+    - `ocrmypdf` — Converts scanned PDFs into fully searchable documents.
+  - Optional Tools:
+    - `ghostscript` — Required for PDF rendering and compression.
+    - `qpdf` — Used internally by `ocrmypdf` for PDF optimization.
 
-### 🐍 Back-End (Python Runtime)
-- **Python 3.13+**
-- Core Libraries:
-  - `pdfplumber` — Extracts text from searchable PDFs.
-  - `pdf2image` — Converts PDF pages into images.
-  - `pytesseract` — Optical character recognition (OCR).
-  - `opencv-python` — Image preprocessing before OCR.
-  - `numpy` — Matrix operations and pixel processing.
-  - `ocrmypdf` — Converts scanned PDFs into fully searchable documents.
-- Optional Tools:
-  - `ghostscript` — Required for PDF rendering and compression.
-  - `qpdf` — Used internally by `ocrmypdf` for PDF optimization.
+---
+
+## ⬇️ Software Download Link:
+All required runtime binary (python) are included in setup, There is no need to install any additional software/lib.
+
+**⚙️ System Requirements & Visual C++ Redistributable**
+
+if ❌ OCR failed: Unable to extract pages from PDF, This issue can occur on older versions of Windows (especially Windows 10 builds) that don’t include all the modern system DLLs required by Poppler and Ghostscript components used for OCR.
+
+  **To fix this:**
+  -  Go to your installation directory: C:\Program Files\eScanX\
+  -  Find and run: vc_redist.x64.exe
+  -  Complete the installation and restart the application.  
+💡 Tip: This redistributable ensures all required runtime DLLs are present. The installer continues even if this step fails, but OCR or PDF extraction may not work until it’s installed.
+
+**🔗Link**
+https://drive.google.com/file/d/1BSS5_iQ2hhgvX92-4Wk4Y16TF3uhVMjd/view?usp=drive_link
+
 
 ---
 
 
-<img width="727" height="757" alt="1" src="https://github.com/user-attachments/assets/09de9d2e-6661-4c92-8149-1f7dd5b68e86" />
+## 📷 Screenshots:
 
-<img width="727" height="755" alt="2" src="https://github.com/user-attachments/assets/9fe795e0-3240-47b2-83cc-3afe0e47b62a" />
 
+---
 
