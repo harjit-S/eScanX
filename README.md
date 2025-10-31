@@ -8,8 +8,7 @@
 ## Software Download Link:
 All required runtime binary (python) are included in setup, There is no need to install any additional software/lib.
 
-https://drive.google.com/file/d/1WGQAcputhkQLbMIOKaD79ZbJ6RXBp43_/view?usp=drive_link
-
+https://drive.google.com/file/d/1lsnabDxeOWbrvFSTNBX0fZD9sFwRHaPG/view?usp=drive_link
 ---
 
 ## 📘 Overview
