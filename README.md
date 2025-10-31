@@ -5,7 +5,7 @@
 **Author:** Harjit Singh  
 **Date:** October 2025  
 
-# Software Download Link:
+## Software Download Link:
 All required runtime binary (python) are included in setup, There is no need to install any additional software/lib.
 
 https://drive.google.com/file/d/1WGQAcputhkQLbMIOKaD79ZbJ6RXBp43_/view?usp=drive_link
