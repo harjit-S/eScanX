@@ -61,6 +61,11 @@ if ❌ OCR failed: Unable to extract pages from PDF, This issue can occur on old
   -  Complete the installation and restart the application.  
 💡 Tip: This redistributable ensures all required runtime DLLs are present. The installer continues even if this step fails, but OCR or PDF extraction may not work until it’s installed.
 
+🛡️ Note:
+If Windows shows a Defender SmartScreen warning (“Windows protected your PC”), click More info → Run anyway.
+This happens because the app is unsigned.
+For permanent removal, use the digitally signed build or install the included certificate.
+
 **🔗Link**
 https://drive.google.com/file/d/1Yfdldzj4RCoI74DiDblC33GwcH4eYrF2/view?usp=drive_link
 
