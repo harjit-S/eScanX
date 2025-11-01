@@ -1,8 +1,8 @@
 # eScanX
 
-**Version:** 1.0.1.2  
+**Version:** 1.0.1
 **Author:** Harjit Singh  
-**Date:** October 2025  
+**Date:** November 2025  
 
 ---
 
@@ -62,7 +62,7 @@ if ❌ OCR failed: Unable to extract pages from PDF, This issue can occur on old
 💡 Tip: This redistributable ensures all required runtime DLLs are present. The installer continues even if this step fails, but OCR or PDF extraction may not work until it’s installed.
 
 **🔗Link**
-https://drive.google.com/file/d/1BSS5_iQ2hhgvX92-4Wk4Y16TF3uhVMjd/view?usp=drive_link
+https://drive.google.com/file/d/1Yfdldzj4RCoI74DiDblC33GwcH4eYrF2/view?usp=drive_link
 
 
 ---
@@ -70,6 +70,17 @@ https://drive.google.com/file/d/1BSS5_iQ2hhgvX92-4Wk4Y16TF3uhVMjd/view?usp=drive
 
 ## 📷 Screenshots:
 
+**Menu/Settings:**
+
+<img width="700" height="683" alt="1" src="https://github.com/user-attachments/assets/d900aa86-82dc-4e6c-8a67-5d41bfd72c92" />
+
+**Search Result Console:**
+
+<img width="700" height="166" alt="2" src="https://github.com/user-attachments/assets/5ea1f5aa-d35e-4cf9-906f-c98cabce2e75" />
+
+**OCR Conversion Result Console:**
+
+<img width="700" height="477" alt="3" src="https://github.com/user-attachments/assets/65a0d2c6-e506-454b-b753-9c9df9e28232" />
 
 ---
 
