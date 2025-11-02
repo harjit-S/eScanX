@@ -75,7 +75,7 @@ For permanent removal, use the digitally signed build or install the included ce
 
 Below link to download the software msi setup:
 
-https://drive.google.com/file/d/1V4aNi3LJH_URBwfNvWWc3t2D799IM0eC/view?usp=drive_link
+https://drive.google.com/file/d/1D_NDEp8i2P63KNe13yiRouKfOXc-Aj_7/view?usp=drive_link
 
 ---
 
