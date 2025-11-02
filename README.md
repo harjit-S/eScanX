@@ -1,6 +1,6 @@
 # eScanX
 
-**Version:** 1.0.1
+**Version:** 1.0.1  
 **Author:** Harjit Singh  
 **Date:** 02 November 2025  
 
