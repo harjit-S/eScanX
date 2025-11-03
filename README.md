@@ -2,6 +2,7 @@
 
 **Version:** 1.0.1  
 **Author:** Harjit Singh  
+**Email:** [mbmaster.pc@gmail.com](mailto:mbmaster.pc@gmail.com)   
 **Date:** 02 November 2025  
 
 ---
@@ -50,6 +51,17 @@ The app leverages **Python-powered OCR and text-processing** libraries to perfor
 
 ---
 
+## 🖥️ User Interface
+
+🛡️ Note:
+If Windows shows a Defender SmartScreen warning (“Windows protected your PC”), click More info → Run anyway.
+This happens because the app is unsigned.
+For permanent removal, use the digitally signed build or install the included certificate.
+
+<img width="400" height="350" alt="win_warn" src="https://github.com/user-attachments/assets/40f6aa70-dda1-46c6-ae06-49a812b4159c" />
+
+---
+
 ## ⬇️ Software Download Link:
 All required runtime binary (python) are included in setup, There is no need to install any additional software/lib.
 
@@ -63,19 +75,19 @@ if ❌ OCR failed: Unable to extract pages from PDF, This issue can occur on old
   -  Complete the installation and restart the application.  
 💡 Tip: This redistributable ensures all required runtime DLLs are present. The installer continues even if this step fails, but OCR or PDF extraction may not work until it’s installed.
 
-🛡️ Note:
-
-If Windows shows a Defender SmartScreen warning (“Windows protected your PC”), click More info → Run anyway.
-This happens because the app is unsigned.
-For permanent removal, use the digitally signed build or install the included certificate.
-
-<img width="400" height="350" alt="win_warn" src="https://github.com/user-attachments/assets/40f6aa70-dda1-46c6-ae06-49a812b4159c" />    
-
 **🔗 Download Link**
 
 Below link to download the software msi setup:
 
 https://drive.google.com/file/d/1D_NDEp8i2P63KNe13yiRouKfOXc-Aj_7/view?usp=drive_link
+
+---
+
+## 🧾 Change Log
+
+**Version 1.0.1** — *02 November 2025*
+- Initial release.
+  
 
 ---
 
@@ -100,3 +112,8 @@ https://drive.google.com/file/d/1D_NDEp8i2P63KNe13yiRouKfOXc-Aj_7/view?usp=drive
 
 ---
 
+## ⚙️ License
+This project is free to use for personal or professional testing purposes.  
+However, **no liability** is accepted for any damage, data loss, or equipment issues resulting from its use.
+
+---
